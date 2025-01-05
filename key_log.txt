@@ -1,0 +1,70 @@
+2025-01-05 15:16:39,134: Key pressed: h
+2025-01-05 15:16:39,252: Key pressed: a
+2025-01-05 15:16:39,268: Key pressed: u
+2025-01-05 15:16:39,384: Key pressed: b
+2025-01-05 15:16:39,509: Key pressed: u
+2025-01-05 15:16:39,525: Key pressed: d
+2025-01-05 15:16:39,728: Key pressed: a
+2025-01-05 15:16:41,761: Special key pressed: Key.backspace
+2025-01-05 15:16:42,276: Special key pressed: Key.backspace
+2025-01-05 15:16:42,306: Special key pressed: Key.backspace
+2025-01-05 15:16:42,337: Special key pressed: Key.backspace
+2025-01-05 15:16:42,368: Special key pressed: Key.backspace
+2025-01-05 15:16:42,405: Special key pressed: Key.backspace
+2025-01-05 15:16:42,432: Special key pressed: Key.backspace
+2025-01-05 15:16:42,469: Special key pressed: Key.backspace
+2025-01-05 15:16:42,502: Special key pressed: Key.backspace
+2025-01-05 15:16:42,534: Special key pressed: Key.backspace
+2025-01-05 15:16:42,567: Special key pressed: Key.backspace
+2025-01-05 15:16:42,594: Special key pressed: Key.backspace
+2025-01-05 15:16:42,632: Special key pressed: Key.backspace
+2025-01-05 15:16:42,661: Special key pressed: Key.backspace
+2025-01-05 15:16:42,696: Special key pressed: Key.backspace
+2025-01-05 15:16:42,728: Special key pressed: Key.backspace
+2025-01-05 15:16:42,759: Special key pressed: Key.backspace
+2025-01-05 15:16:42,788: Special key pressed: Key.backspace
+2025-01-05 15:16:42,820: Special key pressed: Key.backspace
+2025-01-05 15:17:23,901: Special key pressed: Key.shift
+2025-01-05 15:17:24,181: Special key pressed: Key.scroll_lock
+2025-01-05 15:17:27,494: Special key pressed: Key.cmd
+2025-01-05 15:17:27,712: Special key pressed: Key.shift
+2025-01-05 15:17:27,917: Key pressed: S
+2025-01-05 15:17:59,064: Special key pressed: Key.backspace
+2025-01-05 15:17:59,064: Special key pressed: Key.backspace
+2025-01-05 15:18:03,205: Special key pressed: Key.ctrl_l
+2025-01-05 15:18:03,205: Special key pressed: Key.ctrl_l
+2025-01-05 15:18:03,432: Key pressed: 
+2025-01-05 15:18:03,432: Key pressed: 
+2025-01-05 15:18:20,480: Key pressed: u
+2025-01-05 15:18:20,480: Key pressed: u
+2025-01-05 15:18:20,689: Key pressed: d
+2025-01-05 15:18:20,689: Key pressed: d
+2025-01-05 15:18:20,704: Key pressed: u
+2025-01-05 15:18:20,777: Key pressed: g
+2025-01-05 15:18:20,777: Key pressed: g
+2025-01-05 15:18:20,839: Key pressed: a
+2025-01-05 15:18:20,839: Key pressed: a
+2025-01-05 15:18:20,886: Key pressed: u
+2025-01-05 15:18:20,886: Key pressed: u
+2025-01-05 15:18:20,946: Key pressed: g
+2025-01-05 15:18:20,946: Key pressed: g
+2025-01-05 15:18:20,962: Key pressed: d
+2025-01-05 15:18:20,962: Key pressed: d
+2025-01-05 15:18:21,071: Key pressed: u
+2025-01-05 15:18:21,071: Key pressed: u
+2025-01-05 15:18:21,130: Key pressed: g
+2025-01-05 15:18:21,130: Key pressed: g
+2025-01-05 15:18:21,140: Key pressed: a
+2025-01-05 15:18:21,140: Key pressed: a
+2025-01-05 15:18:21,246: Key pressed: u
+2025-01-05 15:18:21,247: Key pressed: u
+2025-01-05 15:18:21,275: Key pressed: d
+2025-01-05 15:18:21,277: Key pressed: d
+2025-01-05 15:18:21,307: Key pressed: g
+2025-01-05 15:18:21,307: Key pressed: g
+2025-01-05 15:18:34,040: Special key pressed: Key.cmd
+2025-01-05 15:18:34,040: Special key pressed: Key.cmd
+2025-01-05 15:18:34,278: Special key pressed: Key.shift
+2025-01-05 15:18:34,278: Special key pressed: Key.shift
+2025-01-05 15:18:34,447: Key pressed: S
+2025-01-05 15:18:34,447: Key pressed: S
